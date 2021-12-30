@@ -1,2 +1,2 @@
-# Dio_Desafios
-Desafios do bootcamp Decola Tech 2 Edição
+# Desafio de projeto Git/GitHub DIO
+Repositório criado para o Desafio de Projeto
